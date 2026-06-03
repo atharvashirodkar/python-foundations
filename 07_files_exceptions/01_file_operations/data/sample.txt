@@ -1,0 +1,9 @@
+Welcome to File Handling in Python.
+
+This file is used for practice.
+Students will learn:
+- Reading files
+- Writing files
+- Appending data
+
+Python makes file handling simple.

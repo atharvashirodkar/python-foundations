@@ -1,0 +1,31 @@
+{
+    "users": {
+        "Andy": {
+            "password": "Andy123"
+        },
+        "Sarah": {
+            "password": "Sarah2024"
+        },
+        "Michael": {
+            "password": "Mike@789"
+        },
+        "Emma": {
+            "password": "EmmaPass12"
+        },
+        "John": {
+            "password": "JohnSecure1"
+        },
+        "Sophia": {
+            "password": "Sophia#567"
+        },
+        "Daniel": {
+            "password": "Daniel2025"
+        },
+        "Olivia": {
+            "password": "OliviaPass9"
+        },
+        "Akash": {
+            "password": "akash123"
+        }
+    }
+}
